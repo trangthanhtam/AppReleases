@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
     <version>1.0.1.0</version>
-    <url>https://github.com/trangthanhtam/TenRepoReleases/releases/download/PhanCong-v1.0.1/Update_PhanCong_v101.zip</url>
+    <url>https://github.com/trangthanhtam/AppReleases/releases/download/phancong_v10/update_phancong_v10.zip</url>
     <changelog>https://github.com/trangthanhtam/AppReleases/releases</changelog>
     <mandatory>true</mandatory>
 </item>
