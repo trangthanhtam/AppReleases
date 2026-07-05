@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+    <version>2.0.0.0</version>
+    <url>https://github.com/trangthanhtam/AppReleases/releases/download/MOS_Host_v2.0.0.0/update.zip</url>
+    <changelog>https://github.com/trangthanhtam/AppReleases/releases</changelog>
+    <mandatory>true</mandatory>
+</item>
